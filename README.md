@@ -46,7 +46,7 @@ Upload documents → ask questions → get grounded answers with sources.
 
 ## Let's connect
 
-I'm currently open to senior engineering and architecture roles with distributed.
+I'm currently open to senior engineering and architecture roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardo--paroli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardo-paroli)
 [![Email](https://img.shields.io/badge/Email-bparoli@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bparoli@gmail.com)
