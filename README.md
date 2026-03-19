@@ -53,7 +53,6 @@ I'm currently open to senior engineering and architecture roles with distributed
 
 ---
 
-*Based in Montevideo, Uruguay 🇺🇾 · Available remotely · Paid in USD preferred*
 
 <!--
 **bparoli/bparoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
