@@ -15,9 +15,9 @@ Today I'm focused on what's most exciting at the intersection of architecture an
 ```python
 stack = {
     "languages":     ["Python", "JavaScript"],
-    "cloud":         ["AWS (10+ yrs)", "ECS", "Lambda", "OpenSearch"],
+    "cloud":         ["AWS (10+ yrs)", "EKS", "Lambda", "OpenSearch"],
     "architecture":  ["Microservices", "API-first", "Event-driven"],
-    "ai":            ["RAG", "LLMs (OpenAI, Claude)", "Vector DBs"],
+    "ai":            ["RAG", "LLMs", "Vector DBs"],
     "practices":     ["DevSecOps", "IaC", "High-availability design"],
 }
 ```
