@@ -14,7 +14,7 @@ Today I'm focused on what's most exciting at the intersection of architecture an
 
 ```python
 stack = {
-    "languages":     ["Python", "JavaScript"],
+    "languages":     ["Python", "Go", "C++", "Erlang", "Java", "JavaScript"],
     "cloud":         ["AWS (10+ yrs)", "EKS", "Lambda", "OpenSearch"],
     "architecture":  ["Microservices", "API-first", "Event-driven"],
     "ai":            ["RAG", "LLMs", "Vector DBs"],
@@ -24,13 +24,22 @@ stack = {
 
 ---
 
-## Featured project
+## Featured projects
 
 ### [`rag-api`](https://github.com/bparoli/rag-api)
 A production-ready Retrieval-Augmented Generation API built with FastAPI, ChromaDB, and OpenAI.  
 Upload documents → ask questions → get grounded answers with sources.
 
 `Python` `FastAPI` `ChromaDB` `OpenAI` `Docker` `AWS`
+
+---
+
+### [`devsecops`](https://github.com/bparoli/devsecops)
+
+An AI-powered DevSecOps platform that monitors Kubernetes clusters in real time and turns observability signals into actionable alerts — automatically.  
+Prometheus and Loki collect metrics and logs → Claude analyzes anomalies → alerts are routed to Telegram and Jira for immediate response.
+
+`Go` `Kubernetes` `Prometheus` `Loki` `Grafana` `Claude` `Telegram` `Jira` `Docker`
 
 ---
 
